@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.center {
+    width: 660px;
+    height: 660px;
+    padding-top: 40px;
+    margin: 0 auto;
+}
+
+.box {
+    height: 100px;
+    width: 100px;
+    float: left;
+    border: 1px solid grey;
+    line-height: 100px;
+    text-align: center;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.green {
+    background-color: green;
+}
